@@ -1,0 +1,35 @@
+2022-01-25 21:27:00,047 - logger_File -INFO - Scenario started
+2022-01-25 21:27:04,088 - logger_File -INFO - Scenario  UNDEFINED
+2022-01-25 22:16:01,917 - logger_File -INFO - Scenario started
+2022-01-25 22:16:07,047 - logger_File -INFO - User is on gmail page
+2022-01-25 22:16:07,350 - logger_File -INFO - User entered the email
+2022-01-25 22:16:08,831 - logger_File -INFO - User entered the password
+2022-01-25 22:16:13,464 - logger_File -INFO - Scenario  PENDING
+2022-01-25 22:31:13,602 - logger_File -INFO - Scenario started
+2022-01-25 22:31:17,892 - logger_File -INFO - User is on gmail page
+2022-01-25 22:31:18,194 - logger_File -INFO - User entered the email
+2022-01-25 22:31:24,566 - logger_File -INFO - User entered the password
+2022-01-25 22:31:36,848 - logger_File -INFO - user clicked on compose
+2022-01-25 22:31:47,683 - logger_File -INFO - Scenario  FAILED
+2022-01-25 22:33:05,496 - logger_File -INFO - Scenario started
+2022-01-25 22:33:09,035 - logger_File -INFO - User is on gmail page
+2022-01-25 22:33:09,313 - logger_File -INFO - User entered the email
+2022-01-25 22:33:15,710 - logger_File -INFO - User entered the password
+2022-01-25 22:33:22,306 - logger_File -INFO - user clicked on compose
+2022-01-25 22:33:25,994 - logger_File -INFO - User entered subject and body
+2022-01-25 22:33:45,095 - logger_File -INFO - Scenario  PENDING
+2022-01-25 22:47:46,469 - logger_File -INFO - Scenario started
+2022-01-25 22:47:50,305 - logger_File -INFO - User is on gmail page
+2022-01-25 22:47:50,633 - logger_File -INFO - User entered the email
+2022-01-25 22:47:56,989 - logger_File -INFO - User entered the password
+2022-01-25 22:48:03,757 - logger_File -INFO - user clicked on compose
+2022-01-25 22:48:07,499 - logger_File -INFO - User entered subject and body
+2022-01-25 22:48:12,645 - logger_File -INFO - User clicked options
+2022-01-25 22:48:12,786 - logger_File -INFO - User clicked label
+2022-01-25 22:48:17,960 - logger_File -INFO - User clicked social
+2022-01-25 22:48:23,161 - logger_File -INFO - User clicked send
+2022-01-25 22:48:31,327 - logger_File -INFO - User waiting
+2022-01-25 22:48:36,525 - logger_File -INFO - User clicked star
+2022-01-25 22:48:41,722 - logger_File -INFO - User clicked received email
+2022-01-25 22:48:41,788 - logger_File -INFO - User verified
+2022-01-25 22:48:46,298 - logger_File -INFO - Scenario  PASSED

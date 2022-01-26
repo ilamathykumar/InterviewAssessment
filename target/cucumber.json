@@ -1,0 +1,257 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-26T06:47:46.318Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3751067000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initialiser.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "",
+        "description": "",
+        "id": "have-an-existing-gmail-account;",
+        "after": [
+          {
+            "result": {
+              "duration": 4509840300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initialiser.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 128545100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on gmail page",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_is_on_gmail_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 321764400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters username \u0027testquestion72@gmail.com\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027testquestion72@gmail.com\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.TestStepDef.user_enters_username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3178145100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on next button",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3172762500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters password \u0027testquestion7272\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027testquestion7272\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.TestStepDef.user_enters_password(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3114726400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on next button",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3650472600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks on compose button",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_compose_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3741151900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user enters recipient \u0027testquestion72@gmail.com\u0027 and subject \u0027Test Mail\u0027 and body \u0027Test Email Body\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027testquestion72@gmail.com\u0027",
+                  "offset": 22
+                },
+                {
+                  "val": "\u0027Test Mail\u0027",
+                  "offset": 61
+                },
+                {
+                  "val": "\u0027Test Email Body\u0027",
+                  "offset": 82
+                }
+              ],
+              "location": "stepDefinitions.TestStepDef.user_enters_recipient_and_subject_and_body(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5142780700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks on more options",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_more_options()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5144758100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user clicks on label",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_label()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5168601100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user clicks on social checkbox",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_social_checkbox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3208659100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user clicks send option",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_send_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5151822600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user waits for the email to arrive in the inbox",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_waits_for_the_email_to_arrive_in_the_inbox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5196379400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user clicks on the star button",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_the_star_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5196570700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user clicks on the received email",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_clicks_on_the_received_email()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63683100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user be able to verify the email with emailbody",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_be_able_to_verify_the_email_with_emailbody()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Have an existing gmail account",
+    "description": "",
+    "id": "have-an-existing-gmail-account",
+    "keyword": "Feature",
+    "uri": "classpath:features/test.feature",
+    "tags": []
+  }
+]
